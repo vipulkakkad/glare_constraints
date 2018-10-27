@@ -1,0 +1,5 @@
+*Setup*
+
+cd plantri50/
+make
+cd ..
